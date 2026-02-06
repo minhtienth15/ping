@@ -12,4 +12,6 @@ jobs:
 
     steps:
       - name: Run cURL on Website
-        run: curl -I https://ugh-ht9h.onrender.com
+        run: |
+          curl -I https://ugh-ht9h.onrender.com
+          curl -I https://smart-v1-53zo.onrender.com
