@@ -12,4 +12,4 @@ jobs:
 
     steps:
       - name: Run cURL on Website
-        run: curl -I https://iptv-trmas-d6hy.onrender.com
+        run: curl -I https://iptv-trmas-f4km.onrender.com
